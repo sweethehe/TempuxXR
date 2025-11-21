@@ -1,2 +1,8 @@
 # TempuxXR
-Reproduction complète d’une maquette Figma dans le cadre d’un projet freelance. L’accent a été mis sur la fidélité au design et la qualité de l’intégration
+Complete reproduction of a Figma mockup as part of a freelance project.
+
+Tempusxr is a hybrid mobile application that gives users access to a variety of Augmented Reality experiences created by companies or enthusiasts.
+
+Its purpose is to offer a distribution channel for experiences created for communication purposes to both companies and individuals.
+
+![Image Alt](https://github.com/sweethehe/Miwakplon/blob/6e0b329bf103b1d16f08dbf801240ced795bf394/miwakplon_presentation.png)
