@@ -1,4 +1,4 @@
-# TempuxXR
+# TempusXR
 Complete reproduction of a Figma mockup as part of a freelance project.
 
 Tempusxr is a hybrid mobile application that gives users access to a variety of Augmented Reality experiences created by companies or enthusiasts.
