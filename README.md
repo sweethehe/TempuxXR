@@ -5,4 +5,4 @@ Tempusxr is a hybrid mobile application that gives users access to a variety of 
 
 Its purpose is to offer a distribution channel for experiences created for communication purposes to both companies and individuals.
 
-![Image Alt](https://github.com/sweethehe/Miwakplon/blob/6e0b329bf103b1d16f08dbf801240ced795bf394/miwakplon_presentation.png)
+![Image Alt](https://github.com/sweethehe/TempuxXR/blob/main/TempusXr_presentation.pdf)
